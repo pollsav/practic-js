@@ -14,10 +14,10 @@
 //     }
 // })
 
-const out3 = document.querySelector('.out-3')
-const b3 = document.querySelector('#b-3')
-b3.addEventListener('click', ()=>{
-    for(let i = 25; i >= 0; i--){
-        out3.innerHTML += " " + i
-    }
-})
+// const out3 = document.querySelector('.out-3')
+// const b3 = document.querySelector('#b-3')
+// b3.addEventListener('click', ()=>{
+//     for(let i = 25; i >= 0; i--){
+//         out3.innerHTML += " " + i
+//     }
+// })
